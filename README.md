@@ -1,5 +1,5 @@
 # cj-app
-Jquery SPA
+Jquery App
 
 IMPORTANT NOTES:
 
